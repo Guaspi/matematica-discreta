@@ -36,7 +36,7 @@ import java.util.Set;
  * que el vostre editor de texte estigui configurat amb codificació UTF-8.
  */
 class Entrega {
-  /*
+  /*f
    * Aquí teniu els exercicis del Tema 1 (Lògica).
    *
    * Els mètodes reben de paràmetre l'univers (representat com un array) i els predicats adients
